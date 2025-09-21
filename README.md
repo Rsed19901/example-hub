@@ -1,4 +1,5 @@
-# Example Hub
+
+Example Hub
 
 A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with
 ready-to-use resources.
